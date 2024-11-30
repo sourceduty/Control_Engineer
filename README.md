@@ -25,6 +25,9 @@ The Control Engineer GPT is a valuable resource for anyone seeking to enhance th
 | Proportional Control  | Basic DC motor speed control                 | Proportional Controller | Tachometers, Motors   |
 
 #
+![Control](https://github.com/user-attachments/assets/0ea79f65-bbf0-4efb-b36b-99cddd995b3e)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
